@@ -18,3 +18,8 @@ tmp/
 *.*~
 *.apk
 com_crashlytics_export_strings.xml
+
+# Nodejs
+lost-web/node_modules/
+
+
